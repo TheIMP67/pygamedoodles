@@ -1,6 +1,7 @@
 # Pygame Platformer - Game Development - Tutorial
 # https://coderslegacy.com/python/pygame-platformer-game-development/
 
+
 import pygame
 from pygame.locals import *
 import sys
